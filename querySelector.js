@@ -1,4 +1,4 @@
-let firstCard= 3
+let firstCard= 4
 let secondCard= 5
 let sum= firstCard+secondCard 
 let hasBlack= false
